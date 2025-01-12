@@ -3,13 +3,9 @@
 
 <img align='right' src='https://media1.tenor.com/m/LbQNdE7GlM4AAAAd/felix-argyle.gif' width='25%'>  
 
-{  
-
 * 🎫 `My name is`: **Emma**,
 * 👩 `Pronouns`: **She/Her**,
 * ⚡ `I'm`: **17 years old**,
 * 🌱 `I’m currently learning`: **Go and Java**,
 * 💻 `Favorite lang`: **Java**
 * 🎁 `Currently working on`: **Uniform** (more info soon..)
-
-}
